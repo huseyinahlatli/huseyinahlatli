@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 👨‍💻 All of my projects are available at [https://huseyinahlatli.itch.io/](https://huseyinahlatli.itch.io/)
+- 👨‍💻 All of my projects are available at [huseyinahlatli.itch.io](https://huseyinahlatli.itch.io/)
 
 - 📫 How to reach me **huseyinahlatli@gmail.com**
 
