@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Huseyin</h1>
 <h3 align="center">Electrical Electronics Engineer</h3>
 
-- // 🌱 I'm currently working in industrial automation, robotics and control software development.
+- 🌱 I'm currently working in industrial automation, robotics and control software development.
 
 - 👨‍💻 All of my projects are available at [huseyinahlatli.itch.io](https://huseyinahlatli.itch.io/)
 
